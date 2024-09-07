@@ -19,4 +19,4 @@ Automation script for downloading and printing PDF files for order management.
 💼 LinkedIn: [Libor Oliva](https://linkedin.com/in/liboroliva)
 
 ## ⚡ Fun fact
-- I love **problem-solving** and automating repetitive tasks to make life easier.
+I love 🧠 problem-solving and 🤖 automating repetitive tasks to make life easier.

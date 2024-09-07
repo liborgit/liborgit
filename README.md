@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=1000&color=0366D6&width=435&lines=Hi+there!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=0366D6&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
 I'm **Libor Oliva**, a passionate **Junior Python Programmer** from Prague, Czechia. I specialize in Python-based solutions, including automation scripts, data processing, and web application development.
 

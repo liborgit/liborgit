@@ -13,10 +13,5 @@ Automation script for downloading and printing PDF files for order management.
 ## 🌱 What I’m currently working on
 📈 Expanding my Python knowledge with **Django** framework.
 
-## 📫 How to reach me
-&nbsp;📍&nbsp;&nbsp;Location: **Prague, Czechia**   
-📧 Email: [libor.oliva@post.cz](mailto:libor.oliva@post.cz)  
-💼 LinkedIn: [Libor Oliva](https://linkedin.com/in/liboroliva)
-
 ## ⚡ Fun fact
 I love 🧠 problem-solving and 🤖 automating repetitive tasks to make life easier.

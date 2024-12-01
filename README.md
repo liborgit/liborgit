@@ -7,7 +7,7 @@ I'm **Libor**, an **RPA Developer** based in Prague, Czechia. I focus on automat
 ### 🖨️ [davmo-print-script](https://github.com/liborgit/davmo-print-script)
 Automation script for downloading and printing PDF files for order management.
 
-### 🌐 [evidence-pojistencu-django](https://github.com/liborgit/evidence-pojistencu-django)
+### 🌐 [insured-people-management](https://github.com/liborgit/insured-people-management)
 Managing insurance records through a web interface with Django and SQLite.
 
 ## 🌱 What I’m currently working on

@@ -11,8 +11,7 @@ Automation script for downloading and printing PDF files for order management.
 Managing insurance records through a web interface with Django and SQLite.
 
 ## 🌱 What I’m currently working on
-📈 I am currently concentrating on a new career journey as an **RPA Developer** at Blue Dynamic.<br>
-💻 I am also learning **C#** to expand my skill set.
+📈 I am currently focused on creating automation solutions with **Power Automate**, exploring **Logic Apps** and integrations, while 💻 developing automation scripts in **Python**.
 
 ## ⚡ Fun fact
 I love 🧠 problem-solving and 🤖 automating repetitive tasks to make life easier.

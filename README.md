@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=0366D6&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
-I'm **Libor**, an **RPA Developer** based in Prague, Czechia. I focus on automating business processes, improving workflows, and creating efficient automation solutions using **Python** and **Power Automate**.
+I'm **Libor**, an **Integration Specialist** based in Prague, Czechia. I focus on automating business processes, improving workflows, and creating efficient automation solutions using **Python** and **Power Automate**.
 
 ## 🚀 Projects
 

@@ -11,7 +11,7 @@ Automation script for downloading and printing PDF files for order management.
 Managing insurance records through a web interface with Django and SQLite.
 
 ## 🌱 What I’m currently working on
-Currently diving into building integration solutions in **Azure** - leveraging **Logic Apps** and **Function Apps** with **C#** 💻🔗
+Currently diving into building integration solutions in **Azure** - leveraging **Logic Apps** and **Function Apps** with **C#** 💻
 
 ## ⚡ Fun fact
 I love 🧠 problem-solving and 🤖 automating repetitive tasks to make life easier.
